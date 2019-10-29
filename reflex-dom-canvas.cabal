@@ -5,7 +5,7 @@ description:
   <<http://i.imgur.com/uZnp9ke.png>>
   .
   Provides Reflex support for interacting with the HTML5 Canvas. Supports "context2d" and "webgl".
-license:             BSD3
+license:             BSD-3-Clause
 license-file:        LICENCE
 author:              Queensland Functional Programming Lab <oᴉ˙ldɟb@llǝʞsɐɥ>
 maintainer:          Queensland Functional Programming Lab <oᴉ˙ldɟb@llǝʞsɐɥ>
